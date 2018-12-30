@@ -16,8 +16,6 @@
 # can still be blocked. If you do not want lfd to block an IP address you must
 # add it to csf.ignore
 192.168.1.63 # homelab csf SSH installation/upgrade IP address - Tue Jul  3 22:56:32 2018
-192.168.1.80 # homelab Manually allowed: 192.168.1.80 (testvm) - Fri Jul  6 23:01:36 2018
-192.168.1.74 # homelab 
 10.0.0.2
 10.0.1.2 #openvpn
 10.0.2.2
